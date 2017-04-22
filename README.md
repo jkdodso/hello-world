@@ -1,2 +1,2 @@
 # hello-world
-intro
+I am just a guy looking to learn a new skill.
